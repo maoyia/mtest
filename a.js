@@ -1,6 +1,7 @@
 //备注
 function a(){
-  console.log('aa')
+  let a = 1
+  alert(a)
 }
 function b(){
   console.log('b')
