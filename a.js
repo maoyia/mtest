@@ -1,9 +1,7 @@
+//备注
 function a(){
-  let a = 5
-  let b = 2
-  if(a>b){
-    return a
-  }
+  let a = 1
+  alert(a)
 }
 a()
 function b(){
