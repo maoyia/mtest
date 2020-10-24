@@ -2,9 +2,7 @@
 function a(){
   let a = 0
   let b = 1
-  if(a>b){
-  rerun a
-  }
+  if(a<b)
 }
 function b(){
   console.log('b')
